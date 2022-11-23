@@ -1,4 +1,4 @@
 ipywidgets==7.7.1
 matplotlib==3.5.3
 pandas==1.3.5
-sklearn
+sklearn-pandas==2.2.0
